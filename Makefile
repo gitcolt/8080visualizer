@@ -10,5 +10,5 @@ db8080: $(OBJ)
 
 .PHONY: clean
 clean:
-	rm -rf $(OBJ) ./db8080
+	rm -rf $(OBJ) bin/db8080
 
